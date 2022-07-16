@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Ubuntu:wght@300&display=swap');
+#title{
+
+    background-color: #ff4c68;
+}
+button{
+    background-color: #ff4c68;
+    border: 1px solid white;
+    font-family: montserrat;
+}
+h1{
+    font-family: "montserrar-Bold";
+    color: white;
+}
+.icon{
+    margin-top: 20PX;
+    color: #ef8172;
+    text-align: center;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+.feature{
+    text-align: center;
+    height: 250px;
+    margin-top: 50px;
+}
+.nike{
+    width: 200px;
+    height: 200px;
+}
+.mark{
+    width: 100%;
+    height: 400px;
+    background: #ef8172;
+}
+.card{
+    padding: 5px;
+}
+#footer{
+    background-color: #ef8172;
+}
+footer {
+    background-color: #ef8172;
+    margin:0px;
+    padding:0px;
+}
+footer div{
+    text-align:center;
+    padding:0px;
+    margin:0px;
+}
+#slide{
+    text-align: center;
+    background-color: #ef8172;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#slide img{
+    width: 20%px;
+    height: 200px;
+    border-radius: 100%;
+}
+#second{
+   
+    background-color: #ef8172;
+    text-align: center;
+    color: aliceblue;
+}
+#second h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img{
+    width: 70%;
+    margin: 25%;
+}
+.Partners{
+    width: 250px;
+    height: 200px;
+}
+.ac{
+    text-align: left;
+}
+ac{
+    color: black;
+}
+.card{
+    text-align: center;
+}
+#course{
+    margin-left: 40px;
+}
